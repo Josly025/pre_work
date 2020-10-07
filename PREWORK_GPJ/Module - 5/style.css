@@ -1,0 +1,28 @@
+
+#p1 {font-size:30px}
+
+#p2 {font-size:12px}
+
+#pbold {font-weight:bold}
+
+#p2font {font-family:Impact, Courier, sans-serif}
+
+#multi {font-size: 25px;
+        font-family: Arial, Helvetica, sans-serif;
+        color:orange;
+        text-align:center;
+        font-weight:bold
+    }
+
+.styledFont {font-size:18px;
+            font-family: "Times New Roman", Times, serif;
+            color:pink;
+            font-weight: bold;
+
+}
+
+#styledImage {border-style: groove;
+              border-width: 8px;
+              border-color: green;
+
+}
